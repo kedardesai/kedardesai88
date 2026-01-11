@@ -76,7 +76,7 @@ export function HeroSection() {
                 <img 
                   src={profilePhoto} 
                   alt="Kedar Sharad Desai - Senior Mobile Developer"
-                  className="w-full h-full object-cover"
+                  className="w-full h-full object-cover object-top scale-110"
                 />
               </div>
               {/* Decorative ring */}
